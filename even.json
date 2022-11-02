@@ -1,0 +1,19 @@
+{
+    "event": {
+        "session_variables": null,
+        "op": "<INSERT>",
+        "data": {
+            "column1": "value1",
+            "column2": "value2"
+        }
+    },
+    "created_at": "<timestamp>",
+    "id": "<2>",
+    "trigger": {
+        "name": "<insert_user_trigger>"
+    },
+    "table":  {
+        "schema": "<public>",
+        "name": "<patient>"
+    }
+  }
